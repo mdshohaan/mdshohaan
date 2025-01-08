@@ -1,7 +1,4 @@
-<div align="center">
-  <img height="400" src="https://raw.githubusercontent.com/mdshohaan/mdshohaan/refs/heads/main/1733502937796_ae5fee1497be4d98bafcd082ebb07c04.png"  />
-</div>
-
+<a href="https://app.daily.dev/irfanulislam"><img src="https://api.daily.dev/devcards/v2/vDcMwm25lrIr7mEUxvgDD.png?type=default&r=uxh" width="356" alt="Irfanul Islam's Dev Card"/></a>
 ###
 
 <h1 align="left">Mohammad Irfanul Islam</h1>
