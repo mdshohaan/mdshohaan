@@ -1,4 +1,7 @@
-<a href="https://app.daily.dev/irfanulislam"><img src="https://api.daily.dev/devcards/v2/vDcMwm25lrIr7mEUxvgDD.png?type=default&r=uxh" width="356" alt="Irfanul Islam's Dev Card"/></a>
+<div align="center">
+  <img height="400" src=""  />
+</div>
+
 ###
 
 <h1 align="left">Mohammad Irfanul Islam</h1>
@@ -10,7 +13,7 @@
 ###
 
 <div align="left">
-  <a href="www.linkedin.com/in/ mohammadirfanulislam" target="_blank">
+  <a href="https://www.linkedin.com/public-profile/settings?trk=d_flagship3_profile_self_view_public_profile" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="20" alt="linkedin logo"  />
   </a>
   <a href="https://x.com/IslamIrfan20544" target="_blank">
