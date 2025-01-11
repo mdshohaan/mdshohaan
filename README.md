@@ -1,6 +1,4 @@
-<div align="center">
-  <img height="400" src=""  />
-</div>
+<a href="https://app.daily.dev/irfanulislam"><img src="https://api.daily.dev/devcards/v2/vDcMwm25lrIr7mEUxvgDD.png?type=default&r=tnu" width="356" alt="Irfanul Islam's Dev Card"/></a>
 
 ###
 
