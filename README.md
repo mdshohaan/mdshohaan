@@ -42,7 +42,7 @@
 ##### ❤ Views and Followers
 
 <br>
-<a href="https://github.com/Meghna-DAS/github-profile-views-counter">
+<a href="https://github.com/mdshohaan/github-profile-views-counter">
     <img src="https://komarev.com/ghpvc/?username=mdshohaan">
 </a>
 <a href="https://github.com/mdshohaan?tab=followers"><img src="https://img.shields.io/github/followers/mdshohaan?label=Followers&style=social" alt="GitHub Badge"></a>
