@@ -1,4 +1,4 @@
-<a href="https://app.daily.dev/irfanulislam"><img src="https://api.daily.dev/devcards/v2/vDcMwm25lrIr7mEUxvgDD.png?type=default&r=tnu" width="356" alt="Irfanul Islam's Dev Card"/></a>
+<!-- <a href="https://app.daily.dev/irfanulislam"><img src="https://api.daily.dev/devcards/v2/vDcMwm25lrIr7mEUxvgDD.png?type=default&r=tnu" width="356" alt="Irfanul Islam's Dev Card"/></a> -->
 
 ###
 
@@ -14,8 +14,7 @@
 ✨ Creating bugs since 2024<br>📚 I'm currently learning Typescript,SQL<br>🎯 Goals: Senior Software Developer<br>🎲 Fun fact: ...
 
 
-## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/share/15hn8arFWj/?mibextid=wwXIfr) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/public-profile/settings?trk=d_flagship3_profile_self_view_public_profile) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/https://stackoverflow.com/users/27240985/irfanul-islam) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/https://x.com/IslamIrfan20544) 
+
 
 ## 🔨 Languages and Tools
 
